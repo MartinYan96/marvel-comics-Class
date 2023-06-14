@@ -2,7 +2,6 @@ import './charContent.scss'
 import MarvelService from '../../services/MarvelService';
 import { Component } from 'react';
 // import ServicesError from '../../services/ServicesError'
-import PropTypes from 'prop-types'
 import LoadingSpinner from '../loadingSpinner/LoadingSpinner'
 
 const Nocomics = () => {
@@ -103,7 +102,9 @@ class CharContent extends Component {
                     <ul className="comics">Comics:
                         {
                             personInfo.comics === undefined || personInfo.comics.length === 0 ? < Nocomics /> : personInfo.comics.map((item, i) => {
-                                if (i > 10) return
+                                if (i > 10){
+                                    return
+                                }
                                 return <li key={i} className='comicsItem' > {item.name}</li>
                             })
                         }
