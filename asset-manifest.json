@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/marvel-comics-Class/static/css/main.97281ba1.css",
-    "main.js": "/marvel-comics-Class/static/js/main.38bfcc7c.js",
+    "main.js": "/marvel-comics-Class/static/js/main.b742800d.js",
     "static/js/787.cc3bfa27.chunk.js": "/marvel-comics-Class/static/js/787.cc3bfa27.chunk.js",
     "static/media/AvengersError.webp": "/marvel-comics-Class/static/media/AvengersError.4a96000a279118f46620.webp",
     "static/media/vision.png": "/marvel-comics-Class/static/media/vision.067d4ae1936d64a577ce.png",
@@ -9,11 +9,11 @@
     "static/media/Spinner-1.3s-200px.svg": "/marvel-comics-Class/static/media/Spinner-1.3s-200px.85f3a968ceedaf8276457488f9ea432c.svg",
     "index.html": "/marvel-comics-Class/index.html",
     "main.97281ba1.css.map": "/marvel-comics-Class/static/css/main.97281ba1.css.map",
-    "main.38bfcc7c.js.map": "/marvel-comics-Class/static/js/main.38bfcc7c.js.map",
+    "main.b742800d.js.map": "/marvel-comics-Class/static/js/main.b742800d.js.map",
     "787.cc3bfa27.chunk.js.map": "/marvel-comics-Class/static/js/787.cc3bfa27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97281ba1.css",
-    "static/js/main.38bfcc7c.js"
+    "static/js/main.b742800d.js"
   ]
 }
